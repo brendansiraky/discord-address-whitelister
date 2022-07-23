@@ -1,4 +1,4 @@
-# discord-crypto-price-tracker
+# discord-address-whitelister
 
 A discord bot allowing users of a specific role the ability to whitelist an address against their discord id.
 
