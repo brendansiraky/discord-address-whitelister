@@ -24,6 +24,7 @@ export async function handleMessageCreate(message: Message, client: Client) {
             return
         }
 
+        // A strict message constraint may go here. For now, this is just the beginning of a cardano mainnet address.
         if (message?.content.includes('addr1') && message ?.content.length < 200) {
             // We only care if we we have found a member and if the author's message contents contains 'addr'
             try {
