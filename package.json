@@ -1,7 +1,7 @@
 {
   "name": "discord-address-whitelister",
   "version": "1.0.0",
-  "description": "",
+  "description": "A discord bot allowing users of a specific role the ability to whitelist an address against their discord id.",
   "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
