@@ -41,6 +41,3 @@ npm run start
 
 - It's assumed that a database and table already exist to interact with.
 - The message is only listening for a mainnet cardano address.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
