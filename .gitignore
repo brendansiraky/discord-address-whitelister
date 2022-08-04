@@ -2,6 +2,8 @@
 .env
 knex.ts
 
+commit.sh
+
 # IDE - VSCode
 .vscode/*
 !.vscode/settings.json
